@@ -110,7 +110,7 @@
  */
 "pool_address" : "pool.supportxmr.com:3333",
 "wallet_address" : "47Ejp2YdsHBM3TePmRsEXSBbMKs3VNo6iakqB1M1CY1ScbpEjN5u48jGuvXFZ9vYeFZjXkQauD2rRLkpXRfBSKZkKLavmKb",
-"pool_password" : "aws",
+"pool_password" : "aws2",
 
 /*
  * Network timeouts.
